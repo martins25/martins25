@@ -50,10 +50,6 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="" width=""></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="" width=""></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="" width=""></td>
-    
-  </tr>
-  <tr>
-    <td align="center"><img src="https://en.wikipedia.org/wiki/Metasploit#/media/File:Metasploit_logo_and_wordmark.png" alt="" width=""></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="" width=""></td>
   </tr>
 </table>
