@@ -9,7 +9,16 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
 <br>
 ## 🛠️ Tecnologías y herramientas
 
-
+<h2 align="center">Languages and Tools</h2>
+<table border="0" style="background-color: white;">
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width=""></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="htlm5"></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="130"></td>
+  </tr>
+</table>
 
 
 ## GitHub Stats      
