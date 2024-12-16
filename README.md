@@ -33,7 +33,6 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
     <td align="center"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" width="100"></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="100"></td>
   </tr>
-  <tr>
   </tr>
 </table>
 
