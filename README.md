@@ -1,5 +1,5 @@
 ## Hi there Adrian 👋
-Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Java con pasión por la programación, la ciberseguridad y las tecnologias.
+Bienvenido a mi perfil de GitHub. Soy Adrian, un Desarrollador de Android y Java con pasión por la programación, la ciberseguridad y las tecnologias.
 <br>
 <br>
 ## 🚀 ¿Qué hago actualmente?
@@ -8,7 +8,7 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
 <br>
 <br>
 
-<h2 align="center> 🔧 Tecnologías y herramientas </h1>
+<h2 align="center> 🔧 Tecnologías y herramientas </h2>
 
 <br>
 
