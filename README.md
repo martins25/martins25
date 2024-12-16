@@ -8,7 +8,7 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
 <br>
 <br>
 
-<h1 aling="center>🔧 Tecnologías y herramientas </h1>
+<h1 align="center> 🔧 Tecnologías y herramientas </h1>
 
 <br>
 
