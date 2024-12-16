@@ -41,19 +41,37 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
 <h3 align="left">DevOps, system and version control</h3>
 <table border="0">
   <tr>
-    <td align="center"><img src="https://api.octoperf.com/doc/monitoring/create-connection/microsoft-windows/img/windows-logo.png" alt="" width="100"></td>
-    <td align="center"><img src="https://upload.vectorlogo.zone/logos/microsoft_powershell/images/1ba9f345-6513-4bef-a85e-4636d21b98b7.svg" alt="" width="80"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="" width="145"></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="" width="100"></td>
+    <td align="center"><img src="https://api.octoperf.com/doc/monitoring/create-connection/microsoft-windows/img/windows-logo.png" alt="windows" width="100"></td>
+    <td align="center"><img src="https://upload.vectorlogo.zone/logos/microsoft_powershell/images/1ba9f345-6513-4bef-a85e-4636d21b98b7.svg" alt="powershell" width="80"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="145"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="100"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="" width=""></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="" width=""></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="100"></td>
   </tr>
 </table>
 
+<br>
+
+<h3 align="left">IDEs</h3>
+<table border="0">
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vsc" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg" alt="eclipse" width="100"></td>
+    <td align="center"><img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova-300x94.png" alt="netbeans" width="100"></td>
+    <td align="center"><img src="https://es.wikipedia.org/wiki/PyCharm#/media/Archivo:JetBrains_PyCharm_Product_Icon.svg" alt="pycharm" width="100"></td>    
+  </tr>
+  <tr>
+    <td align="center"><img src="https://es.wikipedia.org/wiki/Android_Studio#/media/Archivo:Android_Studio_icon_(2023).svg" alt="androidStudio" width="100"></td>
+  </tr>
+</table>
+
+
+<br>
+<br>
 
 ## GitHub Stats      
 [![Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=martins25&theme=one_dark_pro)](https://github.com/martins25/github-readme-stats) 
