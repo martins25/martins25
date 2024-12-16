@@ -7,6 +7,7 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
 * Ademas estoy realizando varios cursos para seguir formandome en el campo.
 <br>
 <br>
+
 ## 🔧 Tecnologías y herramientas
 
 <h2 align="center">Languages and Tools</h2>
@@ -19,7 +20,22 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="100"></td>
   </tr>
 </table>
-
+<br>
+<h3 align="left">Backend Tech</h3>
+<table border="0">
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" width="100"></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="100"></td>
+  </tr>
+  <tr>
+  </tr>
+</table>
 
 ## GitHub Stats      
 [![Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=martins25&theme=one_dark_pro)](https://github.com/martins25/github-readme-stats) 
