@@ -2,7 +2,11 @@
 
 
 
-[![Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=martins25)](https://github.com/martins25/github-readme-stats)
+[![Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=martins25?theme=one_dark_pro)](https://github.com/martins25/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martins25&layout=compact)](https://github.com/martins25/github-readme-stats)
+
 <!--
 **martins25/martins25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
