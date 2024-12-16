@@ -62,7 +62,7 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
     <td align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vsc" width="100"></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg" alt="eclipse" width="100"></td>
     <td align="center"><img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova-300x94.png" alt="netbeans" width="100"></td>
-    <td align="center"><img src="https://es.wikipedia.org/wiki/PyCharm#/media/Archivo:JetBrains_PyCharm_Product_Icon.svg" alt="pycharm" width=""></td>    
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width=""></td>    
   </tr>
   <tr>
     <td align="center"><img src="https://es.wikipedia.org/wiki/Android_Studio#/media/Archivo:Android_Studio_icon_(2023).svg" alt="androidStudio" width=""></td>
