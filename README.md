@@ -2,12 +2,13 @@
 Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Java con pasión por la programación, la ciberseguridad y las tecnologias.
 
 
-##🚀 ¿Qué hago actualmente?
+
+## 🚀 ¿Qué hago actualmente?
 * Estoy realizando una especializacion en ciberseguridad.
 * Ademas estoy realizando varios cursos para seguir formandome en el campo.
 
 
-##🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 
 
