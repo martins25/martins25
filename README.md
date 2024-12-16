@@ -65,7 +65,7 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="100"></td>    
   </tr>
   <tr>
-    <td align="center"><img src="https://commons.wikimedia.org/wiki/Category:Android_Studio#/media/File:Android_Studio_icon_(2023).svg/2" alt="androidStudio" width="100"></td>
+    <td align="center"><img src="https://www.andreszsogon.com/wp-content/uploads/logo_apache_netbeans_cordova-300x94.png" alt="androidStudio" width="100"></td>
   </tr>
 </table>
 
