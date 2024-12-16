@@ -1,13 +1,12 @@
 ## Hi there Adrian 👋
 Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Java con pasión por la programación, la ciberseguridad y las tecnologias.
-
-
-
+<br>
+<br>
 ## 🚀 ¿Qué hago actualmente?
 * Estoy realizando una especializacion en ciberseguridad.
 * Ademas estoy realizando varios cursos para seguir formandome en el campo.
-
-
+<br>
+<br>
 ## 🛠️ Tecnologías y herramientas
 
 
@@ -15,11 +14,10 @@ Bienvenido a mi perfil de GitHub. Soy Adrian., un Desarrollador de Android y Jav
 
 ## GitHub Stats      
 [![Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=martins25&theme=one_dark_pro)](https://github.com/martins25/github-readme-stats) 
-
-
+<br>
+<br>
 ## Top Langs
-
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martins25&layout=compact&theme=one_dark_pro)](https://github.com/martins25/github-readme-stats)
 
 
