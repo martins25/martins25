@@ -12,7 +12,6 @@ Bienvenido a mi perfil de GitHub. Soy Adrian, un Desarrollador de Android y Java
 
 <br>
 
-<h2 align="left">Languages and Tools</h2>
 <table border="0" style="background-color: white;">
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="100"></td>
